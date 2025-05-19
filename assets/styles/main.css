@@ -1,1 +1,9 @@
-"/* main.css - base styles */" 
+body {
+  background-color: #121212;
+  color: #f0f0f0;
+}
+
+button.subscribe {
+  background-color: #333;
+  color: #eee;
+}
