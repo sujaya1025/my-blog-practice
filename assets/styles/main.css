@@ -12,3 +12,13 @@ button.subscribe {
   background-color: #333;
   color: #eee;
 }
+
+footer {
+  background-color: #222;
+  padding: 15px;
+}
+
+footer p {
+  color: #ccc;
+  font-size: 14px;
+}
