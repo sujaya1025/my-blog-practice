@@ -1,6 +1,6 @@
 {
   "name": "my-blog-practice",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "For setup instructions, see the [Installation page](https://github.com/sujaya1025/my-blog-practice/wiki/Installation).",
   "main": "index.js",
   "scripts": {
